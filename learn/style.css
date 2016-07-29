@@ -1,0 +1,69 @@
+*{
+    font-family: b yekan;
+}
+header{
+    background-color: aqua;
+    color: white;
+    font-size: 2em;
+    text-align: center;
+    border-radius: 300px;
+}
+body{
+    margin: 0px;
+    background:aqua url(http://bayanbox.ir/view/5413042231118772447/bsacksground-meno.jpg)repeat fixed 0% 0%;
+}
+html{
+    margin: 0px;
+}
+.menubar{
+    background-color: aquamarine;
+    border-radius: 300px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.menu-item{
+    background-color:cadetblue;
+    margin: 3px;
+    border: 1px solid;
+    border-radius: 100px;
+    color: white;
+    border-color: black;
+    
+}
+.menu-item:hover{
+    
+     border-radius: 5px;
+}
+.menu-item:active{
+   color: white;
+    background-color: blue;
+}
+.source{
+    border: 5px solid;
+    border-color:cornflowerblue;
+    border-radius: 30px;
+    height: 2000px;
+    background-color: azure;
+    color: skyblue;
+    text-align: center;
+}
+mark{
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: black;
+    background-color: red;
+}
+.dige{
+    color: skyblue;
+}
+.dige:hover{
+    color: red;
+}
+footer{
+    text-align: center;
+    background-color: aqua;
+    font-size:2em;
+    border-radius: 5px;
+}
