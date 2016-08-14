@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1469848494
+#1471154739
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -10,6 +10,7 @@ images/menu_left_title-sheet0.png
 images/menu_right_title-sheet0.png
 images/menu_l_bg-sheet0.png
 images/logo-sheet0.png
+images/beta-sheet0.png
 icon-16.png
 icon-32.png
 icon-114.png
@@ -20,6 +21,6 @@ byekan.eot
 byekan.svg
 byekan.ttf
 byekan.woff
-styles.css
+style.css
 NETWORK:
 *
